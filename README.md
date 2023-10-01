@@ -20,6 +20,7 @@ I enjoy learning new aspects of programming and constantly try new things. Hopef
 <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/4c810dc9-b3f9-482c-b260-3ae6a70ebb88" width="25">
 <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/99985008-ff10-40da-b45b-9db73f33b1e3" width="25">
 </br>
+
 ## What have I made?
 - :bar_chart: [Nutritional mobile application](https://github.com/EthanNgit/NutritionProject) </br>
   <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/f5bcb158-4cc5-4fb1-80cf-b8a0d5eee308" width="25">
