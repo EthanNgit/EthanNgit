@@ -8,7 +8,7 @@ I enjoy learning new aspects of programming and constantly try new things. Hopef
 ## What have I made?
 - :bar_chart:[Nutritional mobile application](https://github.com/EthanNgit/NutritionProject)
 <p align="left">
-  [alt text](https://github.com/EthanNgit/EthanNgit/blob/main/gitIcons/gitJava.png?raw=true)
+  ![gitJava](https://github.com/EthanNgit/EthanNgit/assets/105979510/f5bcb158-4cc5-4fb1-80cf-b8a0d5eee308)
 </p>
 
 - :camera: [Nutrition label scanner](https://github.com/EthanNgit/NutritionFactsScanner)
