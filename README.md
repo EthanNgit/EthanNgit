@@ -8,6 +8,14 @@ I enjoy learning new aspects of programming and constantly try new things. Hopef
 ## What have I made?
 - :bar_chart:[Nutritional mobile application](https://github.com/EthanNgit/NutritionProject) </br></br>
   <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/f5bcb158-4cc5-4fb1-80cf-b8a0d5eee308" width="25">
+  <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/8d424c1e-41f6-40e5-a0e9-ea1e93db785d" width="25">
+  <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/f5bcb158-4cc5-4fb1-80cf-b8a0d5eee308" width="25">
+  <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/f5bcb158-4cc5-4fb1-80cf-b8a0d5eee308" width="25">
+  <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/f5bcb158-4cc5-4fb1-80cf-b8a0d5eee308" width="25">
+      
+
+
+ 
 
 - :camera: [Nutrition label scanner](https://github.com/EthanNgit/NutritionFactsScanner)
   -
