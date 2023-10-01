@@ -8,7 +8,7 @@ I enjoy learning new aspects of programming and constantly try new things. Hopef
 ## Skills
 <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/314185ce-23a7-4406-88c4-206a9abdd941" width="35">
 <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/ea189d1b-efd6-43ce-9286-b14351e010b4" width="35">
-<img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/98281fa3-c16e-4cd6-9e64-b6523b5791e4" width="35">
+<img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/4f4a87a7-770c-4276-8e11-f39172820114" width="35">
 <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/0a43b036-c92a-4511-ac7d-03fc12de4afc" width="35">
 <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/f5bcb158-4cc5-4fb1-80cf-b8a0d5eee308" width="35">
 <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/76fe004e-7850-4413-b4ce-76846b1627d8" width="35">
