@@ -44,3 +44,6 @@ I enjoy learning new aspects of programming and constantly try new things. Hopef
   <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/0a43b036-c92a-4511-ac7d-03fc12de4afc" width="25">
   </br>
 
+## Socials
+
+[![YouTube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC9xUROCxfVE0YAZfmJ4SJcw) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EthanNgit) 
