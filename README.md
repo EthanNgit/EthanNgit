@@ -6,7 +6,7 @@ Hi, my name is Ethan. I am currently a university student, and I am looking for 
 I enjoy learning new aspects of programming and constantly try new things. Hopefully some of the software I wrote can help you in some way.</br>
 
 ## What have I made?
-- :bar_chart:[Nutritional mobile application](https://github.com/EthanNgit/NutritionProject) </br></br>
+- :bar_chart: [Nutritional mobile application](https://github.com/EthanNgit/NutritionProject) </br></br>
   <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/f5bcb158-4cc5-4fb1-80cf-b8a0d5eee308" width="25">
   <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/76fe004e-7850-4413-b4ce-76846b1627d8" width="25">
   <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/8d424c1e-41f6-40e5-a0e9-ea1e93db785d" width="25">
