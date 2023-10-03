@@ -42,6 +42,8 @@ I enjoy learning new aspects of programming and constantly try new things. Hopef
   </br>
 - #### :black_flag: [Banner random phrase generator](https://github.com/EthanNgit/BannerPhraseGenerator)
     <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/0a43b036-c92a-4511-ac7d-03fc12de4afc" width="25">
+    <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/4c810dc9-b3f9-482c-b260-3ae6a70ebb88" width="35">
+    <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/99985008-ff10-40da-b45b-9db73f33b1e3" width="35">
     </br>
 
 - #### :open_file_folder: [Context menu file converter](https://github.com/EthanNgit/ContextMenuFileConverter)
