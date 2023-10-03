@@ -1,5 +1,5 @@
 ![alt text](https://github.com/EthanNgit/EthanNgit/blob/main/filledGithubBanner.png?raw=true)
-> Banner is made using python
+> Banner is made using [Python](https://github.com/EthanNgit/BannerPhraseGenerator)
 
 ## About me
 Hi, my name is Ethan. I am currently a university student, and I am looking for internships to get into software engineering.</br>
