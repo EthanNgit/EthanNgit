@@ -36,7 +36,7 @@ I enjoy learning new aspects of programming and constantly try new things. Hopef
   <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/4c810dc9-b3f9-482c-b260-3ae6a70ebb88" width="25">
   <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/99985008-ff10-40da-b45b-9db73f33b1e3" width="25">
   </br>
-- #### :cn: [Hanzi Learning Web App](https://github.com/EthanNgit/HanziWebApp)
+- #### :earth_asia: [Hanzi Learning Web App](https://github.com/EthanNgit/HanziWebApp)
   <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/27cdb01c-696b-4c14-a2ba-ba5a595f391b" width="25">
   <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/3e50618e-743f-48ad-83ef-b66bdc23d7d3" width="25"> 
   <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/76f67321-503d-48d0-8e23-b98c5e406108" width="25"> 
