@@ -2,8 +2,8 @@
 > Banner is made using [Python](https://github.com/EthanNgit/BannerPhraseGenerator)
 
 ## About me
-Hi, my name is Ethan. I am currently a university student, and I am looking for internships to get into software engineering.</br>
-I enjoy learning new aspects of programming and constantly try new things. Hopefully some of the software I wrote can help you in some way.</br>
+Hi, my name is Ethan. I am currently a university student, and I am looking for internships in software engineering.</br>
+I enjoy learning new aspects of programming and constantly trying new things. Hopefully some of the software I wrote can help you in some way.</br>
 
 ## Skills
 <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/314185ce-23a7-4406-88c4-206a9abdd941" width="35">
