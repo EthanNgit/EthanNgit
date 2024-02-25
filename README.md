@@ -2,57 +2,100 @@
 > Banner is made using [Python](https://github.com/EthanNgit/BannerPhraseGenerator)
 
 ## About me
-Hi, my name is Ethan. I am currently a university student, and I am looking for internships in software engineering.</br>
-I enjoy learning new aspects of programming and constantly trying new things. Hopefully some of the software I wrote can help you in some way.</br>
+Hi, im Ethan. </br>
+I am currently studying web development. I plan to study cybersecurity or networking next.</br>
 
 ## Skills
-<img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/314185ce-23a7-4406-88c4-206a9abdd941" width="35">
-<img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/ea189d1b-efd6-43ce-9286-b14351e010b4" width="35">
-<img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/4f4a87a7-770c-4276-8e11-f39172820114" width="35">
-<img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/0a43b036-c92a-4511-ac7d-03fc12de4afc" width="35">
-<img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/f5bcb158-4cc5-4fb1-80cf-b8a0d5eee308" width="35">
-<img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/27cdb01c-696b-4c14-a2ba-ba5a595f391b" width="35">
-<img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/3e50618e-743f-48ad-83ef-b66bdc23d7d3" width="35"> 
-<img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/76f67321-503d-48d0-8e23-b98c5e406108" width="35"> 
-<img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/76fe004e-7850-4413-b4ce-76846b1627d8" width="35">
-<img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/8d424c1e-41f6-40e5-a0e9-ea1e93db785d" width="35">
-<img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/b8f5e779-8c93-4671-bc53-c8fe7f4337a9" width="35">
-<img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/ee26ef22-635c-42ad-950b-0fd0c040032c" width="35">
-<img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/898835d7-8ec0-4a67-949c-46ddc802e9e2" width="35">
-<img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/cf187ce3-129f-46e4-95bf-69feb928825c" width="35">
-<img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/4c810dc9-b3f9-482c-b260-3ae6a70ebb88" width="35">
-<img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/99985008-ff10-40da-b45b-9db73f33b1e3" width="35">
+#### Web development
+<p float="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="35">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="35"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="35"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="35"/>
+</p>
+
+#### Backend development
+<p float="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width="35">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="35">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" width="35"/>
+</p>
+
+#### Mobile development
+<p float="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="35">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="35">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="35">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="35">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" width="35">
+</p>
+
+#### Game development
+<p float="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="35">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="35">
+
+</p>
+
+#### Other
+<p float="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="35">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="35">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35"/>
+</p>
 </br>
 
 ## What have I made?
 - #### :bar_chart: [Nutritional mobile application](https://github.com/EthanNgit/NutritionProject)
-  <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/f5bcb158-4cc5-4fb1-80cf-b8a0d5eee308" width="25">
-  <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/76fe004e-7850-4413-b4ce-76846b1627d8" width="25">
-  <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/8d424c1e-41f6-40e5-a0e9-ea1e93db785d" width="25">
-  <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/b8f5e779-8c93-4671-bc53-c8fe7f4337a9" width="25">
-  <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/ee26ef22-635c-42ad-950b-0fd0c040032c" width="25">
-  <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/898835d7-8ec0-4a67-949c-46ddc802e9e2" width="25">
-  <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/cf187ce3-129f-46e4-95bf-69feb928825c" width="25">
-  <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/4c810dc9-b3f9-482c-b260-3ae6a70ebb88" width="25">
-  <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/99985008-ff10-40da-b45b-9db73f33b1e3" width="25">
-  </br>
+  <p float="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="25">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="25">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="25">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="25">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" width="25">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width="25">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="25">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" width="25"/>
+</p>
+  
 - #### :earth_asia: [Hanzi Learning Web App](https://github.com/EthanNgit/HanziWebApp)
-  <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/27cdb01c-696b-4c14-a2ba-ba5a595f391b" width="25">
-  <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/3e50618e-743f-48ad-83ef-b66bdc23d7d3" width="25"> 
-  <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/76f67321-503d-48d0-8e23-b98c5e406108" width="25"> 
-  <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/cf187ce3-129f-46e4-95bf-69feb928825c" width="25">
-  <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/4c810dc9-b3f9-482c-b260-3ae6a70ebb88" width="25">
-  <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/99985008-ff10-40da-b45b-9db73f33b1e3" width="25">
-  </br>
+  <p float="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="25">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="25"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="25"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width="25">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" width="25"/>
+</p>
+  
 - #### :black_flag: [Banner random phrase generator](https://github.com/EthanNgit/BannerPhraseGenerator)
-  <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/0a43b036-c92a-4511-ac7d-03fc12de4afc" width="25">
-  <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/4c810dc9-b3f9-482c-b260-3ae6a70ebb88" width="25">
-  <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/99985008-ff10-40da-b45b-9db73f33b1e3" width="25">
-  </br>
+  <p float="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="25">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" width="25"/>
+</p>
+
+- #### :arrows_counterclockwise: [Database backup generator](https://github.com/EthanNgit/AutoDbBackup)
+  <p float="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="25">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" width="25"/>
+</p>
 
 - #### :open_file_folder: [Context menu file converter](https://github.com/EthanNgit/ContextMenuFileConverter)
-  <img src="https://github.com/EthanNgit/EthanNgit/assets/105979510/0a43b036-c92a-4511-ac7d-03fc12de4afc" width="25">
-  </br>
+  <p float="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="25">
+</p>
 
 ## Socials
 
