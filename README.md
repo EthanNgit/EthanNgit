@@ -66,7 +66,7 @@ I am currently studying web development. I plan to study cybersecurity or networ
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" width="25"/>
 </p>
   
-- #### :earth_asia: [Hanzi Learning Web App](https://github.com/EthanNgit/HanziWebApp)
+- #### :earth_asia: [Hanzi learning web app](https://github.com/EthanNgit/HanziWebApp)
   <p float="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="25"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="25">
