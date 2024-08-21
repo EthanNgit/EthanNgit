@@ -3,7 +3,7 @@
 
 ## About me
 Hi, im Ethan. </br>
-I am currently studying web development. I plan to study cybersecurity or networking next.</br>
+I am currently studying api development.</br>
 
 ## Skills
 #### Web development
